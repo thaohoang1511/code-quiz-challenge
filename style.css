@@ -1,0 +1,15 @@
+.container{
+    position: relative;
+    margin-top: 100px;
+    background-color: aquamarine;
+    width: 900px;
+}
+h1, p{
+    margin:auto;
+    text-align: center;   
+}
+#startButton{
+    display: block;
+    margin: auto;
+}
+
